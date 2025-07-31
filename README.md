@@ -1,4 +1,5 @@
 # Hand Gesture Finger Counter
+![Demo](finger_count_img.png)
 
 A simple Python project that uses OpenCV and MediaPipe to detect hands via webcam and count the number of fingers raised.
 
